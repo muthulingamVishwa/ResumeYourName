@@ -12,5 +12,5 @@
 - Refresh the page. You will get 'Your Site is live at' on your page
 
 ## Videos
-([https://github.com/muthulingamVishwa/ResumeYourName/issues/1#issue-2280244470](https://github.com/muthulingamVishwa/ResumeYourName/assets/151023895/4d09138f-7efc-41d9-aac6-083806aee2a5
-))
+[https://github.com/muthulingamVishwa/ResumeYourName/issues/1#issue-2280244470](https://github.com/muthulingamVishwa/ResumeYourName/assets/151023895/4d09138f-7efc-41d9-aac6-083806aee2a5
+)
