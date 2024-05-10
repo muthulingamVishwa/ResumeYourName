@@ -1,5 +1,5 @@
 
-# My Resume Link: https://muthulingamvishwa.github.io/ResumeYourName/
+## My Resume Link: https://muthulingamvishwa.github.io/ResumeYourName/
 # First, create HTML and CSS files. The HTML file should be named 'index.html'.
 - Open your GitHub account.
 - Select 'New' to create a new Public Repository.
